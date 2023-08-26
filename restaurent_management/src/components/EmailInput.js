@@ -22,7 +22,7 @@ function EmailInput({ history }) {
         <div style={styles.container}>
             <div style={styles.card}>
                 <h2>Enter your Email Id</h2>
-                <p style={{ color: "lightgray" }}>We will send You four digit verification code</p>
+                <p style={{ color: "lightgrey" }}>We will send You four digit verification code</p>
                 <input
                     type="text"
                     placeholder="Enter your Email "
